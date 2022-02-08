@@ -5,3 +5,5 @@
 
 <a href="https://www.instagram.com/dioneya.cthulhu/" target="_blank"><img src="https://github.com/Dioneya/Dioneya/blob/main/insta.png" height="100"/></a>
 <a href="https://www.instagram.com/dioneya.cthulhu/" target="_blank"><img src="https://github.com/Dioneya/Dioneya/blob/main/vk.png" height="100"/></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dioneya)](https://github.com/Dioneya/github-profile-trophy)
