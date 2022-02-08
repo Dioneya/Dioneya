@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/dioneya.cthulhu/" target="_blank"><img src="https://github.com/Dioneya/Dioneya/blob/main/insta.png" height="100"/></a>
 <a href="https://www.instagram.com/dioneya.cthulhu/" target="_blank"><img src="https://github.com/Dioneya/Dioneya/blob/main/vk.png" height="100"/></a>
 #
-# [![trophy](https://github-profile-trophy.vercel.app/?username=Dioneya&theme=darkhub&column=3&margin-w=15&margin-h=15&align=center)](https://github.com/Dioneya/github-profile-trophy)
+# [![trophy](https://github-profile-trophy.vercel.app/?username=Dioneya&theme=darkhub&row=1&margin-w=15&margin-h=15&align=center)](https://github.com/Dioneya/github-profile-trophy)
 
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dioneya&theme=dark)](https://git.io/streak-stats)
 
